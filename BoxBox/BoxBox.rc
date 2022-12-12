@@ -1,0 +1,129 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "winres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""winres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP1             BITMAP                  "이미지\\BoxDown.bmp"
+
+IDB_BITMAP2             BITMAP                  "이미지\\BoxDown1.bmp"
+
+IDB_BITMAP3             BITMAP                  "이미지\\BoxDown2.bmp"
+
+IDB_BITMAP4             BITMAP                  "이미지\\BoxDown3.bmp"
+
+IDB_BITMAP5             BITMAP                  "이미지\\BoxDown4.bmp"
+
+IDB_BITMAP6             BITMAP                  "이미지\\BoxLeft.bmp"
+
+IDB_BITMAP7             BITMAP                  "이미지\\BoxLeft1.bmp"
+
+IDB_BITMAP8             BITMAP                  "이미지\\BoxLeft2.bmp"
+
+IDB_BITMAP9             BITMAP                  "이미지\\BoxLeft3.bmp"
+
+IDB_BITMAP10            BITMAP                  "이미지\\BoxLeft4.bmp"
+
+IDB_BITMAP11            BITMAP                  "이미지\\BoxRight.bmp"
+
+IDB_BITMAP12            BITMAP                  "이미지\\BoxRight1.bmp"
+
+IDB_BITMAP13            BITMAP                  "이미지\\BoxRight2.bmp"
+
+IDB_BITMAP14            BITMAP                  "이미지\\BoxRight3.bmp"
+
+IDB_BITMAP15            BITMAP                  "이미지\\BoxRight4.bmp"
+
+IDB_BITMAP16            BITMAP                  "이미지\\BoxUp.bmp"
+
+IDB_BITMAP17            BITMAP                  "이미지\\BoxUp1.bmp"
+
+IDB_BITMAP18            BITMAP                  "이미지\\BoxUp2.bmp"
+
+IDB_BITMAP19            BITMAP                  "이미지\\BoxUp3.bmp"
+
+IDB_BITMAP20            BITMAP                  "이미지\\BoxUp4.bmp"
+
+IDB_BITMAP21            BITMAP                  "이미지\\Box0.bmp"
+
+IDB_BITMAP22            BITMAP                  "이미지\\Box3.bmp"
+
+IDB_BITMAP23            BITMAP                  "이미지\\Box4.bmp"
+
+IDB_BITMAP24            BITMAP                  "이미지\\Box125.bmp"
+
+IDB_BITMAP25            BITMAP                  "이미지\\GoalTile.bmp"
+
+IDB_BITMAP26            BITMAP                  "이미지\\Tile.bmp"
+
+IDB_BITMAP27            BITMAP                  "이미지\\Tile2.bmp"
+
+IDB_BITMAP28            BITMAP                  "이미지\\Background.bmp"
+
+IDB_BITMAP29            BITMAP                  "이미지\\TItle.bmp"
+
+IDB_BITMAP30            BITMAP                  "이미지\\화살표역할.bmp"
+
+IDB_BITMAP31            BITMAP                  "이미지\\랭킹창.bmp"
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

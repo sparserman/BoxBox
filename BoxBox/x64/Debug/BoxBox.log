@@ -1,0 +1,31 @@
+﻿  소스.cpp
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(234,87): warning C4311: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 포인터가 잘립니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(234,87): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(236,77): warning C4311: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 포인터가 잘립니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(236,77): warning C4302: '형식 캐스트': 'LPVOID'에서 'DWORD'(으)로 잘립니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(250,50): error C2664: 'SQLRETURN SQLBindCol(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': 인수 6을(를) 'SQLINTEGER *'에서 'SQLLEN *'(으)로 변환할 수 없습니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(250,45): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\sql.h(618,20): message : 'SQLBindCol' 선언을 참조하십시오.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(251,47): error C2664: 'SQLRETURN SQLBindCol(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': 인수 6을(를) 'SQLINTEGER *'에서 'SQLLEN *'(으)로 변환할 수 없습니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(251,43): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\sql.h(618,20): message : 'SQLBindCol' 선언을 참조하십시오.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(252,56): error C2664: 'SQLRETURN SQLBindCol(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': 인수 6을(를) 'SQLINTEGER *'에서 'SQLLEN *'(으)로 변환할 수 없습니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(252,48): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\sql.h(618,20): message : 'SQLBindCol' 선언을 참조하십시오.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(253,56): error C2664: 'SQLRETURN SQLBindCol(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': 인수 6을(를) 'SQLINTEGER *'에서 'SQLLEN *'(으)로 변환할 수 없습니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(253,48): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\sql.h(618,20): message : 'SQLBindCol' 선언을 참조하십시오.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(415,50): error C2664: 'SQLRETURN SQLBindCol(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': 인수 6을(를) 'SQLINTEGER *'에서 'SQLLEN *'(으)로 변환할 수 없습니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(415,45): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\sql.h(618,20): message : 'SQLBindCol' 선언을 참조하십시오.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(416,47): error C2664: 'SQLRETURN SQLBindCol(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': 인수 6을(를) 'SQLINTEGER *'에서 'SQLLEN *'(으)로 변환할 수 없습니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(416,43): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\sql.h(618,20): message : 'SQLBindCol' 선언을 참조하십시오.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(417,56): error C2664: 'SQLRETURN SQLBindCol(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': 인수 6을(를) 'SQLINTEGER *'에서 'SQLLEN *'(으)로 변환할 수 없습니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(417,48): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\sql.h(618,20): message : 'SQLBindCol' 선언을 참조하십시오.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(418,56): error C2664: 'SQLRETURN SQLBindCol(SQLHSTMT,SQLUSMALLINT,SQLSMALLINT,SQLPOINTER,SQLLEN,SQLLEN *)': 인수 6을(를) 'SQLINTEGER *'에서 'SQLLEN *'(으)로 변환할 수 없습니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(418,48): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 괄호가 있는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\sql.h(618,20): message : 'SQLBindCol' 선언을 참조하십시오.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(1018,22): warning C4311: '<function-style-cast>': 'time_t (__cdecl *)(time_t *const )'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\tjdrl\Documents\GitHub\BoxBox\BoxBox\소스.cpp(1018,22): warning C4302: '<function-style-cast>': 'time_t (__cdecl *)(time_t *const )'에서 'unsigned int'(으)로 잘립니다.

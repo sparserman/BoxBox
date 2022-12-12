@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="BoxBox.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\이미지\BoxDown.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxDown1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxDown2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxDown3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxDown4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxLeft.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxLeft1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxLeft2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxLeft3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxLeft4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxRight.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxRight1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxRight2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxRight3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxRight4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxUp.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxUp1.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxUp2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxUp3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\BoxUp4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\Box0.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\Box3.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\Box4.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\Box125.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\GoalTile.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\Tile.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\Tile2.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\Background.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\TItle.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\화살표역할.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\..\이미지\랭킹창.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
